@@ -31,7 +31,7 @@
 
 
 
-## 🛠️ My skill in developing electronic products
+## 🛠️ My skill in electronic development
 
 ### Misc tools:
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?&logo=Arduino&logoColor=white)
