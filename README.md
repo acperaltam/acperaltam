@@ -28,7 +28,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 
 
-## 🛠️ My skill in software development
+## 🛠️ My skill in developing electronic products
 -------------------
 
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?&logo=Arduino&logoColor=white)
