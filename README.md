@@ -35,4 +35,6 @@
 ![Tinkercad](https://img.shields.io/badge/-Tinkercad-000000?&logo=Tinkercad&logoColor=white)
 ![KiCad](https://img.shields.io/badge/-KiCad-000000?&logo=KiCad&logoColor=white)
 ![LTspice](https://img.shields.io/badge/-LTspice-000000?&logo=LTspice&logoColor=white)
+![Fritzing](https://img.shields.io/badge/-Fritzing-000000?&logo=Fritzing&logoColor=white)
+![Proteus](https://img.shields.io/badge/-Proteus-000000?&logo=Proteus&logoColor=white)
 
