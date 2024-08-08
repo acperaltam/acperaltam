@@ -39,9 +39,7 @@
 ![Proteus](https://img.shields.io/badge/-Proteus-000000?&logo=Proteus&logoColor=white)
 
 
-![LTspice](https://img.shields.io/badge/-LTspice-000000?&logo=LTspice)
-![Proteus](https://img.shields.io/badge/-Proteus-000000?&logo=Proteus&logoColor=white)
-![KiCad](https://img.shields.io/badge/-KiCad-000000?&logo=KiCad)
+
 
 
 
