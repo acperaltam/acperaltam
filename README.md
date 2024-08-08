@@ -26,3 +26,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+
+
+https://img.shields.io/badge/-Arduino-000000?style=for-the-badge&logo=Arduino&logoColor=white
