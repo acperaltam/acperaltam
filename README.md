@@ -1,4 +1,4 @@
-## 🛠️ My Skills
+## 🛠️ My skill in software development
 -------------------
 ### Programming languages:
 &emsp;
