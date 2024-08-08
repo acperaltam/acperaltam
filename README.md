@@ -22,6 +22,8 @@
 ### Databases:
 &emsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![LTspice](https://img.shields.io/badge/-LTspice-000000?&logo=LTspice&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
 
@@ -30,7 +32,7 @@
 ### Circuit Design and Simulation:
 &emsp;
 ![LTspice](https://img.shields.io/badge/-LTspice-000000?&logo=LTspice&logoColor=white)
-![LTspice](https://img.shields.io/badge/LTspice-900028.svg?style=for-the-badge&logo=LTspice&logoColor=white)
+
 
 ![Proteus](https://img.shields.io/badge/-Proteus-000000?&logo=Proteus&logoColor=white)
 
