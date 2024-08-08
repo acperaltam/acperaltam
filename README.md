@@ -31,17 +31,21 @@
 
 ## 🧩 My skill in electronic development
 
-### Misc tools:
+### Circuit Design and Simulation:
+&emsp;
+![LTspice](https://img.shields.io/badge/-LTspice-000000?&logo=LTspice&logoColor=white)
+![Proteus](https://img.shields.io/badge/-Proteus-000000?&logo=Proteus&logoColor=white)
+
+### PCB Design:
+&emsp;
+![KiCad](https://img.shields.io/badge/-KiCad-000000?&logo=KiCad&logoColor=white)
+![Fritzing](https://img.shields.io/badge/-Fritzing-000000?&logo=Fritzing&logoColor=white)
+
+### Prototyping and Circuit Design:
 &emsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?&logo=Arduino&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/-Tinkercad-000000?&logo=Tinkercad&logoColor=white)
-![KiCad](https://img.shields.io/badge/-KiCad-000000?&logo=KiCad&logoColor=white)
-![LTspice](https://img.shields.io/badge/-LTspice-000000?&logo=LTspice&logoColor=white)
-![Fritzing](https://img.shields.io/badge/-Fritzing-000000?&logo=Fritzing&logoColor=white)
-![Proteus](https://img.shields.io/badge/-Proteus-000000?&logo=Proteus&logoColor=white)
 
-
-![Arduino](https://img.shields.io/badge/-Arduino-000000?&logo=Arduino)
 
 ## 👷‍♀️ My skills in occupational health and safety
 
