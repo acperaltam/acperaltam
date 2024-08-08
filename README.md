@@ -42,9 +42,7 @@
 ![Tinkercad](https://img.shields.io/badge/-Tinkercad-000000?&logo=Tinkercad&logoColor=white)
 
 
-## 👷‍♀️ My skills in occupational health and safety
 
-![SAP EHS](https://img.shields.io/badge/-SAP_EHS-000000?&logo=SAP&logoColor=white)
 
 
 
