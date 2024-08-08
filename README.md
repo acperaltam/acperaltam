@@ -16,14 +16,11 @@
 &emsp;
 ![Jira](https://img.shields.io/badge/-Jira-000?&logo=Jira)
 ![LTspice](https://img.shields.io/badge/-LTspice-000000?&logo=LTspice&logoColor=white)
-
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 
 ### Databases:
 &emsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-
-
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 
 
