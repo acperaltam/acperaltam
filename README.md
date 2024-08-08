@@ -38,3 +38,6 @@
 ![Fritzing](https://img.shields.io/badge/-Fritzing-000000?&logo=Fritzing&logoColor=white)
 ![Proteus](https://img.shields.io/badge/-Proteus-000000?&logo=Proteus&logoColor=white)
 
+
+![Tinkercad](https://img.shields.io/badge/-Tinkercad-000000?&logo=Tinkercad)
+
