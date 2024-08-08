@@ -34,4 +34,5 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?&logo=Arduino&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/-Tinkercad-000000?&logo=Tinkercad&logoColor=white)
 ![KiCad](https://img.shields.io/badge/-KiCad-000000?&logo=KiCad&logoColor=white)
+![LTspice](https://img.shields.io/badge/-LTspice-000000?&logo=LTspice&logoColor=white)
 
