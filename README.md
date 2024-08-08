@@ -26,4 +26,10 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
+
+
+## 🛠️ My skill in software development
+-------------------
+
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?&logo=Arduino&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/-Tinkercad-000000?&logo=Tinkercad&logoColor=white)
