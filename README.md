@@ -1,5 +1,5 @@
 ## 🛠️ My skill in software development
--------------------
+
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -32,7 +32,7 @@
 
 
 ## 🛠️ My skill in developing electronic products
--------------------
+
 ### Misc tools:
 ![Arduino](https://img.shields.io/badge/-Arduino-000000?&logo=Arduino&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/-Tinkercad-000000?&logo=Tinkercad&logoColor=white)
