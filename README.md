@@ -41,6 +41,8 @@
 ![Proteus](https://img.shields.io/badge/-Proteus-000000?&logo=Proteus&logoColor=white)
 
 
+![Arduino](https://img.shields.io/badge/-Arduino-000000?&logo=Arduino)
+
 ## 👷‍♀️ My skills in occupational health and safety
 
 ![SAP EHS](https://img.shields.io/badge/-SAP_EHS-000000?&logo=SAP&logoColor=white)
